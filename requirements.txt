@@ -1,0 +1,10 @@
+requests
+dotenv
+ipykernel
+pandas
+numpy
+plotly
+seaborn
+matplotlib
+datetime
+openpyxl
